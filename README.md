@@ -17,7 +17,7 @@
   - **At 5 stars, the first update will push!**
   - Proxy support will be addded!
   - Captcha solver service will be added!
-  - Email + Phone verify will be added1
+  - Email + Phone verify will be added!
   - Request based twitchery will be sold soon!
 # Contact Me
  If you need help, or want a custom software, feel free to [Contact Me.](https://t.me/marseille1337)
