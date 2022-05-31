@@ -19,4 +19,4 @@
   - Request based twitchery will be sold soon!
 
 # Contact Me
- If you need help, or want a custom software, feel free to [Contact Me](https://t.me/marseille1337)
+ If you need help, or want a custom software, feel free to [Contact Me.](https://t.me/marseille1337)
