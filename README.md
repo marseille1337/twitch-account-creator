@@ -11,7 +11,7 @@
   - Install [Node](https://nodejs.org)
   - Run cmd and type `node twitchery.js` - Now you done!
   
-  - Please keep in mind, per iP you can create 3 - 4 accounts without captcha, then you will need a VPN or Autoproxy. Ill p          preffer nordvpn autoswitch, but proxy support will be added as soon as possible!
+  - Please keep in mind, per iP you can create 3 - 4 accounts without captcha, then you will need a VPN or Autoproxy. I'll p          preffer nordvpn autoswitch, but proxy support will be added as soon as possible!
  
  # Future
   - Proxy support will be addded!
